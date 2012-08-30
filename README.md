@@ -1,3 +1,8 @@
+d3\_calendar\_clock
+===================
+
+Contained are two d3 javascript objects, under files Clock.js and MonthlyCalendar.js, that visualize predicted cab demand in San Francisco. Enjoy.
+
 # The MIT License
 
 Source code for _d3\_calendar\_clock_ is Copyright © 2011–2012 [Daniel Vizzini](mailto:dvizzini@pintweets.com) and [contributors](http://github.com/dvizzini/PinTweets/contributors "PinTweets contributors at GitHub").
