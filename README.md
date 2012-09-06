@@ -1,7 +1,9 @@
 d3\_calendar\_clock
 ===================
 
-Contained are two d3 javascript objects, under files Clock.js and MonthlyCalendar.js, that visualize predicted cab demand in San Francisco. Enjoy.
+Contained are two d3 javascript objects, under files Clock.js and MonthlyCalendar.js, that visualize predicted cab demand in San Francisco.
+
+View the visualization [here](http://danielvizzini.com/d3_calendar_clock.html).
 
 # The MIT License
 
